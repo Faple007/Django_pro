@@ -26,8 +26,7 @@ SECRET_KEY = 'e3y9=1k*up#jyin+&lvhbp#idbh(a2%&lym%pg%mes30is(dwx'
 DEBUG = True
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '[blooming-hamlet-33052
-].herokuapp.com']
+ALLOWED_HOSTS = ['localhost', '[pythond].herokuapp.com']
 
 
 # Application definition
